@@ -8,11 +8,7 @@
 
 We will achieve the following business objectives:
 
-* <First business objective>
-	* <any detail if necessary>
-* <Second business objective>
-
-* Item 1
-* Item 2
-  * Item 2a
+* <<First business objective>>
+  * <<Optional detail on first business objective>>
+* <<Second business objective>>
   * Item 2b
