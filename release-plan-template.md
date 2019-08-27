@@ -26,6 +26,5 @@ Release Capacity | Story points
 
 CR Number| CR Title | CR Description | Date added | Initial T-shirt Estimate | Updated Story Point Estimate   
 ---------| ---------| -------------- | ---------- | ---------------- | --------------------
-**$CR number$** | $CR title$ | $description$ | $MON dd yyyy | $S, M, L, XL, or XXL$ | $story points$
-
-
+**$CR number-1$** | $CR title$ | $description$ | $MON dd yyyy | $S, M, L, XL, or XXL$ | $story points$
+**$CR number-2$** | $CR title$ | $description$ | $MON dd yyyy | $S, M, L, XL, or XXL$ | $story points$
