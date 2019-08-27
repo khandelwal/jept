@@ -1,4 +1,4 @@
-# $Platform$ Release Plan for $version number$
+# {Platform} Release Plan for $version number$
 
 ## Overview
 
