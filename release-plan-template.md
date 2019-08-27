@@ -37,16 +37,34 @@ Story ID | Story Title | Story description | Date added | Initial story point es
 
 ## Release key dates and milestones
 
+
+### Planning and pre-development phase
+
 Date | Activity/Event/Milestone/Deliverable| Comments 
 ---------| ---------| -------------- | 
 $MON, dd yyyy$ | $**Deliverable**$ | $comments$
 
-### Planning and pre-development phase
-
 ### Development phase
+
+Date | Activity/Event/Milestone/Deliverable| Comments 
+---------| ---------| -------------- | 
+$MON, dd yyyy$ | $**Deliverable**$ | $comments$
 
 ### Production deployment
 
+Date | Activity/Event/Milestone/Deliverable| Comments 
+---------| ---------| -------------- | 
+$MON, dd yyyy$ | $**Deliverable**$ | $comments$
+
 ### Release retrospective
 
+Date | Activity/Event/Milestone/Deliverable| Comments 
+---------| ---------| -------------- | 
+$MON, dd yyyy$ | $**Deliverable**$ | $comments$
+
+
 ### Non-development tasks
+
+Date | Activity/Event/Milestone/Deliverable| Comments 
+---------| ---------| -------------- | 
+$MON, dd yyyy$ | $**Deliverable**$ | $comments$
