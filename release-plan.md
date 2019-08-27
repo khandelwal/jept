@@ -1,4 +1,4 @@
-# <Platform> Release Plan for [<version number>]
+# <Platform> Release Plan for <version number>
 
 ## Overview
 
@@ -11,3 +11,8 @@ We will achieve the following business objectives:
 * <First business objective>
 	* <any detail if necessary>
 * <Second business objective>
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
