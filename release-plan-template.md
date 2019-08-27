@@ -22,3 +22,10 @@ Release Capacity | Story points
 **Total planned work** | $story points$
 **Remaining capacity** | $estimated development capacity - $story points$
 
+### Release Plan 
+
+CR Number| CR Title | CR Description | Date added | Initial T-shirt Estimate | Updated Story Point Estimate   
+---------| ---------| -------------- | ---------- | ---------------- | --------------------
+**$CR number$** | $CR title$ | $description$ | $MON dd yyyy | $S, M, L, XL, or XXL$ | $story points$
+
+
