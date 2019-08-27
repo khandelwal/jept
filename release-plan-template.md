@@ -20,7 +20,7 @@ Release Capacity | Story points
 ------------ | -------------
 **Estimated development capacity** | {total story points for this release} points
 **Total planned work** | {story points}
-**Remaining capacity** | {estimated development capacity - story points|
+**Remaining capacity** | {estimated development capacity - story points}
 
 ### Release plan 
 
