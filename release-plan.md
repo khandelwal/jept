@@ -18,7 +18,7 @@ We will achieve the following business objectives:
 
 Release Capacity | Story points
 ------------ | -------------
-Estimated development capacity | $total story points for this release$ points
-Total planned work | $story points$
-Remaining capacity | $estimated development capacity - $story points$
+**Estimated development capacity** | $total story points for this release$ points
+**Total planned work** | $story points$
+**Remaining capacity** | $estimated development capacity - $story points$
 
